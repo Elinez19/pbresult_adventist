@@ -102,17 +102,17 @@ const Drawerdata = () => {
               </Link>
             ))}
             <div className="mt-4"></div>
-            <Link href="https://ekschool.pbresultvault.com/">
+            <Link href="https://schools.adventists.pbresultvault.com/">
               <button className="bg-purple text-white font-medium py-2 px-4 rounded w-full sm:w-auto">
                 School Login
               </button>
             </Link>
-            <Link href="https://ekteacher.pbresultvault.com/login">
+            <Link href="https://teachers.adventists.pbresultvault.com/">
               <button className="bg-[#218F6A] text-white font-medium py-2 px-4 rounded w-full sm:w-auto mt-2 sm:mt-0 sm:ml-2">
                 Teacher Login
               </button>
             </Link>
-            <Link href="https://ekstudent.pbresultvault.com/login">
+            <Link href="https://students.adventists.pbresultvault.com/">
               <button className="bg-purple text-white font-medium py-2 px-4 rounded w-full sm:w-auto mt-2 sm:mt-0 sm:ml-2">
                 Student Login
               </button>
