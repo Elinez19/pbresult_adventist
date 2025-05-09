@@ -175,12 +175,12 @@ const Navbar = () => {
                 ))}
                 {/* CTA BUTTONS */}
                 <div className="flex items-center space-x-2">
-                  <Link href="https://ekschool.pbresultvault.com/">
+                  <Link href="https://schools.adventists.pbresultvault.com/">
                     <button className="border-[#135352] font-medium py-2 px-4 rounded w-full sm:w-auto text-[#135352] bg-white border-2">
                       School Login
                     </button>
                   </Link>
-                  <Link href="https://ekteacher.pbresultvault.com/login">
+                  <Link href="https://teachers.adventists.pbresultvault.com/">
                     <button className="bg-[#135352] text-white font-medium py-2 px-4 rounded w-full sm:w-auto mt-2 sm:mt-0 sm:ml-2">
                       Teacher Login
                     </button>
